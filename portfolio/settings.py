@@ -22,7 +22,7 @@ SECRET_KEY = '&9_2%$-k3^cy25p=pr-5^#8&_k_vek3-q#nk94-@)2%v@go(8='
 
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = Config ('DEBUG', True)
+DEBUG = True
 
 ALLOWED_HOSTS = '*'
 
